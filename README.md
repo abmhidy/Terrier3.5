@@ -9,3 +9,5 @@ Arabic stemmers:
 
 Farasa Stemmer and Khoja Stemmer
 
+For FarasaStemer you may download the java API of Farasa Segmenter from this link http://alt.qcri.org/farasa/segmenter.html
+
